@@ -21,3 +21,23 @@ img {
 	border:none;
 }
 /* ---------------------- Start the carousel CSS here -------------------- */
+
+#carousel .items {
+	width:930px;
+	height:257px;
+	margin:0;
+	padding:0;
+	position:relative;
+	overflow:hidden;
+}
+
+#carousel .items .item {
+	background-color: red;
+	margin:0;
+	padding:0;
+	width:225px;
+	height:245px;
+	margin:20px 10px 20px 0;
+	// float:left;
+	position:relative;
+}

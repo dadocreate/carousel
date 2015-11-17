@@ -16,3 +16,8 @@ body { font: 1.2em arial, helvetica, sans-serif; text-align: center; background:
 img { border: none; }
 
 /* ---------------------- Start the carousel CSS here -------------------- */
+/* line 25, ../sass/style.scss */
+#carousel .items { width: 930px; height: 257px; margin: 0; padding: 0; position: relative; overflow: hidden; }
+
+/* line 34, ../sass/style.scss */
+#carousel .items .item { background-color: red; margin: 0; padding: 0; width: 225px; height: 245px; margin: 20px 10px 20px 0; position: relative; }
